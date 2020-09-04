@@ -1,7 +1,7 @@
 import React from 'react';
 import Jumbotron from 'react-bootstrap/Jumbotron';
-import Mountains from '../../assets/mountains.jpg';
-import Image from 'react-bootstrap/Image';
+// import Mountains from '../../assets/mountains.jpg';
+// import Image from 'react-bootstrap/Image';
 
 export const Jumbo = () => (
  
